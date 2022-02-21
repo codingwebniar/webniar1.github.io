@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body bgcolor="lightblue">
+<h1 align="center">Solar System</h1>
+<hr>
+
+<marquee>
+<h1>
+planets
+</h1>
+</marquee>
+<p>Fun line to learn planets in order is <i><q>My Very Educated mother just showed us nine planets</q></i></p>
+<hr>
+
+<ul>
+<li style="color:brown;">  Mercury    </li>
+<li style="color:orange;">  Venus    </li>
+<li> <mark> Earth  </mark> </li>
+<li  style="color:red;">  Mars   </li>
+<li>  Jupiter    </li>
+<li  style="color:darkblue;">  saturn   </li>
+<li  style="color:green;"> Uranus    </li>
+<li  style="color:red;"> Neptune   </li>
+<li>  <del> Pluto </del></li>
+</ul>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61NZYZl7MGL.jpg" width="1400" height="400"></img>
+<p align="center">to know about more solar system<a href="https://en.wikipedia.org/wiki/Solar_System">click here</a></p>
+
+</body>
+</html>

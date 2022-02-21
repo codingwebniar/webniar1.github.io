@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Tables
+</title>
+</head>
+
+<body>
+<h1 text align="center">Tables</h1>
+<table align="center" border="1px" bgcolor="pink" >
+<caption>Students List</caption>
+<tr><th>Names</th><th>Age</th><th>Grade</th><th>State</tr></tr>
+<tr><td>Stuti</td><td>13</td><td>7</td><td>Delhi</td></tr>
+<tr><td>Priya</td><td>18</td><td>12</td><td>Delhi</td></tr>
+<tr><td>Riya</td><td>15</td><td>9</td><td>Noida</td></tr>
+<tr><td>Alex</td><td>15</td><td>9</td><td>North east Delhi</td></tr>
+<tr><td>Seema</td><td>13</td><td>7</td><td>Rajasthan</td></tr>
+<tr><td>Diya</td><td>13</td><td>7</td><td>Delhi</td></tr>
+<tr><td>Anaya</td><td>16</td><td>10</td><td>Noida</td></tr>
+<tr><td>Kamya</td><td>14</td><td>8</td><td>Rajasthan</td></tr>
+<tr><td>Ishita</td><td>14</td><td>8</td><td>Rajasthan</td></tr>
+</table>
+
+
+
+</body>
+</html>
